@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Playground: From Scratch & With scikit-learn
+# 🧠 Machine Learning : From Scratch & With scikit-learn
 
 This repository documents my hands-on journey through machine learning. It includes **custom implementations** of ML models using only `NumPy`, as well as **practical experimentation** using popular libraries like `scikit-learn`.
 
